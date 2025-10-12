@@ -1,0 +1,28 @@
+.logg h1{
+   color: rgb(207, 230, 230);
+   font-size: 28px;
+}
+
+.logg{
+    background-color: rgb(17, 17, 42);
+    color: aliceblue;
+    text-align: center;
+    line-height: 20px;
+    width: 75%;
+    padding: 40px;
+    margin-left: 100px;
+
+    border-radius: 10px;
+
+
+}
+
+.logpage{
+     
+  height: 100vh;
+  background-color: rgb(237, 183, 199);
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+
+}
